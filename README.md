@@ -1,8 +1,8 @@
 # powerbi-project
 Data professional survey breakdown
 
-This is a project in power bi , where a data set containing the surveys created by Alex The Analyst youtuber has taken back in 2022.
-The survey contains **630** unique responses of data professionals from different countries including US(261), India(73), UK(40), Canada(32),  Oher countries(224).
-Upon analyzing this data country-wise, I noticed that people living in US(63.8%) and Canada(60.6%) have better worklife balance than the rest.
-Also, the average percentage of people being happy with their Salary is more in US as compared with the other countries and in India out of 73 people only 35.1% are happy with the Salary.
-Finally, we can also see that most data professionals found the breaking into Data to be moderate(neither easy nor difficult).
+This Power BI project analyzes survey data collected by Alex the Analyst, a renowned YouTuber, in 2022. The dataset comprises 630 unique responses from data professionals across various countries, including the United States (261), India (73), the United Kingdom (40), Canada (32), and others (224).
+
+A country-wise analysis revealed intriguing insights: respondents in the United States (63.8%) and Canada (60.6%) reported having a better work-life balance compared to those in other countries. Additionally, salary satisfaction was notably higher among professionals in the US. In contrast, only 35.1% of the 73 respondents from India expressed satisfaction with their salaries.
+
+Interestingly, the data also highlighted that most professionals perceived breaking into the field of data as moderately challenging—neither too easy nor too difficult.
